@@ -26,4 +26,4 @@ Welcome to the "Python_Sale_Business_Analysis" repository! This project aims to 
 
 ## Contact
 
-If you have any questions or suggestions regarding this project, please feel free to contact Email - PranjalMishraContact@gmail.com. 
+If you have any questions or suggestions regarding this project, please feel free to contact Email - minhajudeen123@gmail.com. 
